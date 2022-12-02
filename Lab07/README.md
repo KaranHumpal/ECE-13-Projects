@@ -1,0 +1,7 @@
+Karan Humpal khumpal@ucsc.edu
+
+In this lab we created a Toaster Oven on the microcontroller. It has three modes, BAKE,TOAST,and BROIL. We are able to contol the time for all modes and the temprature for the BAKE mode using the potentiometer. The important aspects of this lab were syyncing the LEDS with the timers and making buttons do what you want them too. This was well demonstrated by the lab manual.
+
+Again, like all labs I first started by gathering as much information about the topics covered in this lab. The first thing I did was read the Lab Manual thoroughly and with the warning given on Cnavas and in the Lab manual, I knew that I was going to spend a lot more time on this lab than others. Out of all things, the Lab manual gives you the most information on how to start this lab. I felt the "Approaching this Lab" section was very helpful. I had some trouble with syncing up the timer with the LEDS at first. The timer was going a little faster than it should be but I think I fixed it.
+
+I am very satisfied with how this lab turned out. I think I got everything to work properly. I feel like I prepared well for this lab given the warning. I spent majority of my time understanding the Lab, 3 days in fact, and only about a day and a half coding it. I had the most fun with this lab over any other one. I love using the microcontroller. Discussions in class and the lab manual were adequate in completing this lab.

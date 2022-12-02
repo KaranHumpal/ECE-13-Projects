@@ -1,0 +1,2 @@
+Karan Humpal
+This lab took me a very long time and was the most challenging lab I have seen so far as a CE major. I slowly but surely figured it out and everything makes alot of sense to me now. Its one thing to read KnR and another to write code. I took a little longer on SubMatrix and MatrixInverse but after messing around with them for a few days I was able to figure it out. I did not work with anyone else mainly because I do not know anyone in this class. I spent probably 15+ hours on this lab. It was quite challenging for me but I think I learned alot from it.
